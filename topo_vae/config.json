@@ -1,0 +1,19 @@
+{
+    "max_epochs": 400,
+    "gpus": [
+        0
+    ],
+    "rtd_every_n_batches": 1,
+    "rtd_start_epoch": 0,
+    "topo_weight": 100.0,
+    "hidden_dim": 400,
+    "latent_dim": 16,
+    "batch_size": 128,
+    "lr": 0.001,
+    "k": 1,
+    "balanced_sampling": true,
+    "beta": 0.001,
+    "max_std": 3,
+    "delete_low_certainty_percantage": 0.6,
+    "topo_stop": false
+}

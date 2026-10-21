@@ -1,0 +1,14 @@
+black
+gudhi
+matplotlib
+networkx
+numpy
+pandas
+pytorch-lightning
+pyyaml
+scikit-learn
+scipy
+torch
+torchmetrics
+torchvision
+tqdm
